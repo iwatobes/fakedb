@@ -1,7 +1,13 @@
 {
   "posts": [
     {
-      "reading": 30
+      "name": "Alana"
+    },
+	{
+      "name": "Joana"
+    },
+	{
+      "name": "Jane"
     }
   ],
   "profile": {
